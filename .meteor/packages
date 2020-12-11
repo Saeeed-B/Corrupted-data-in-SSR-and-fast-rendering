@@ -22,7 +22,10 @@ static-html             # Define static page content in .html files
 react-meteor-data       # React higher-order component for reactively tracking Meteor data
 
 npdev:react-loadable
+# ostrio:files            # For Upload Files in Meteor
+# accounts-base@1.7.1
+# accounts-password@1.6.3
 aldeed:collection2
 server-render@0.3.1
-
+# communitypackages:picker
 staringatlights:fast-render
